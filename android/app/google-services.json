@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "901402058388",
+    "firebase_url": "https://flutterfirebaseauth-1c71a.firebaseio.com",
+    "project_id": "flutterfirebaseauth-1c71a",
+    "storage_bucket": "flutterfirebaseauth-1c71a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901402058388:android:444f6e9c17715fbdc25e81",
+        "android_client_info": {
+          "package_name": "com.example.credence_box_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901402058388-bhgsbrt5c6u6j8ln21jus5gckpi4nbbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.credence_box_tracker",
+            "certificate_hash": "c9cc695b14dbd67530b8473268e32fb803677631"
+          }
+        },
+        {
+          "client_id": "901402058388-q810lpm5t2955jaosdr06htomu6d4emi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb8DdSAfTtrmacn7wLERHJA1O0PqEF0vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901402058388-q810lpm5t2955jaosdr06htomu6d4emi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901402058388:android:2d1685cbe604814dc25e81",
+        "android_client_info": {
+          "package_name": "com.example.hostels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901402058388-q810lpm5t2955jaosdr06htomu6d4emi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb8DdSAfTtrmacn7wLERHJA1O0PqEF0vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901402058388-q810lpm5t2955jaosdr06htomu6d4emi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
